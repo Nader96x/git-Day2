@@ -1,5 +1,7 @@
 # How to ...?
 
+![How to](http://www.thehappinessfactory.be/blog/images/How.png)
+
 ## Remove Section
 
 ### remove Remotely
@@ -33,5 +35,5 @@ git tag -d v1.7
 ### delete tag remotely
 
 ```sh
-git push origin --delete v1.7
+git push origin :v1.7
 ```
